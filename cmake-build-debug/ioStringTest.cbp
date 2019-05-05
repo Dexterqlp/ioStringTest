@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ioStringTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ioStringTest">
+				<Option output="C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/ioStringTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/backward"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 ioStringTest"/>
+					<CompileFile command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ioStringTest/fast">
+				<Option output="C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/ioStringTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/backward"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="d:\dexter\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 ioStringTest/fast"/>
+					<CompileFile command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dexter/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/D/CLionProjects/ioStringTest/main.cpp">
+			<Option target="ioStringTest"/>
+		</Unit>
+		<Unit filename="C:/Users/D/CLionProjects/ioStringTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
