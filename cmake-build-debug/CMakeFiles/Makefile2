@@ -53,10 +53,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\D\CLionProjects\ioStringTest
+CMAKE_SOURCE_DIR = D:\gitware\ioStringTest
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\D\CLionProjects\ioStringTest\cmake-build-debug
+CMAKE_BINARY_DIR = D:\gitware\ioStringTest\cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/ioStringTest.dir
@@ -65,7 +65,7 @@ CMAKE_BINARY_DIR = C:\Users\D\CLionProjects\ioStringTest\cmake-build-debug
 CMakeFiles/ioStringTest.dir/all:
 	$(MAKE) -f CMakeFiles\ioStringTest.dir\build.make CMakeFiles/ioStringTest.dir/depend
 	$(MAKE) -f CMakeFiles\ioStringTest.dir\build.make CMakeFiles/ioStringTest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\D\CLionProjects\ioStringTest\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target ioStringTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\gitware\ioStringTest\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target ioStringTest"
 .PHONY : CMakeFiles/ioStringTest.dir/all
 
 # Include target in all.
@@ -75,9 +75,9 @@ all: CMakeFiles/ioStringTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ioStringTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\D\CLionProjects\ioStringTest\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\gitware\ioStringTest\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/ioStringTest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\D\CLionProjects\ioStringTest\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\gitware\ioStringTest\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/ioStringTest.dir/rule
 
 # Convenience name for target.

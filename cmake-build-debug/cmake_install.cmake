@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/D/CLionProjects/ioStringTest
+# Install script for directory: D:/gitware/ioStringTest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/gitware/ioStringTest/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

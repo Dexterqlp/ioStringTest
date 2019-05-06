@@ -1,3 +1,3 @@
-C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/CMakeFiles/ioStringTest.dir
-C:/Users/D/CLionProjects/ioStringTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/gitware/ioStringTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/gitware/ioStringTest/cmake-build-debug/CMakeFiles/ioStringTest.dir
+D:/gitware/ioStringTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

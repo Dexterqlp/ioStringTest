@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/D/CLionProjects/ioStringTest/main.cpp
+D:/gitware/ioStringTest/main.cpp
 iostream
 -
 fstream
